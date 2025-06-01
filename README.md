@@ -17,13 +17,22 @@
 
 <h1 align="center">Crafting products with code ⚡</h1>
 
+
 ###
 
 <h3 align="left">Welcome to my GitHub 👨‍💻</h3>
 
 ###
 
-<p align="left">I'm Thomas, currently in Seoul 🇰🇷<br><br>- 🔭 I’m working as a **Full Stack Developer (Freelance & Remote)**   <br>- ⚡ In my free time I love building side projects, exploring new SaaS ideas, and playing tennis 🎾<br><br>🚀 Built and launched 6+ platforms solo, focused on delivering robust, scalable, and real-world solutions.<br><br>🛠️ **Main Tech Stack**  <br>`Node.js` · `React` · `Next.js` · `MongoDB` · `Google Cloud` · `Solidity` · `TypeScript`<br><br>💬 Let’s connect or collaborate! I’m always open to cool freelance projects.</p>
+<p align="left">
+I'm Thomas, currently in Seoul 🇰🇷<br><br>
+- 🔭 I’m working as a <strong>Full Stack Developer (Freelance & Remote)</strong><br>
+- ⚡ In my free time I love building side projects, exploring new SaaS ideas, and playing tennis 🎾<br><br>
+🚀 Built and launched 6+ platforms solo, focused on delivering robust, scalable, and real-world solutions.<br><br>
+🛠️ <strong>Main Tech Stack</strong><br>
+<code>Node.js</code> · <code>React</code> · <code>Next.js</code> · <code>MongoDB</code> · <code>Google Cloud</code> · <code>Solidity</code> · <code>TypeScript</code><br><br>
+💬 Let’s connect or collaborate! I’m always open to cool freelance projects.
+</p>
 
 ###
 
