@@ -27,7 +27,7 @@
 <p align="left">
 I'm Thomas, currently in Seoul 🇰🇷<br><br>
 - 🔭 I’m working as a <strong>Full Stack SE (Remote)</strong><br>
-- ⚡ In my free time I love building side projects, exploring new SaaS ideas, and playing tennis 🎾<br><br>
+- ⚡ In my free time I love building side projects, exploring new SaaS ideas, and playing tennis 🎾<br>
 - 💻 Built 6+ SaaS<br><br>
 🛠️ <strong>Main Tech Stack</strong><br>
 <code>Node.js</code> · <code>React</code> · <code>Next.js</code> · <code>MongoDB</code> · <code>Google Cloud</code> · <code>Solidity</code> · <code>TypeScript</code><br><br>
