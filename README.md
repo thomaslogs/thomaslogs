@@ -4,5 +4,5 @@
 
 <p align="left">
 Senior Full-Stack & Solution Engineer.<br>
-Ex-dev (pre-AI era) → now building AI systems
+Ex-dev (pre-AI era) → now AI Solutions Engineer
 </p>
