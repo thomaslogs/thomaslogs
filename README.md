@@ -3,6 +3,6 @@
 ###
 
 <p align="left">
-Senior Full-Stack & Solution Engineer.<br>
-Ex-dev (pre-AI era) → now AI Solutions Engineer
+Senior Full-Stack & Solution Architect<br>
+Ex-dev (pre-AI era) → now AI Solutions Architect
 </p>
