@@ -3,6 +3,6 @@
 ###
 
 <p align="left">
-Senior Full-Stack & Solution Architect<br>
-Ex-dev (pre-AI era) → now AI Solutions Architect
+Senior AI & Full-Stack Engineer<br>
+Building production agents, RAG systems, and scalable SaaS.
 </p>
